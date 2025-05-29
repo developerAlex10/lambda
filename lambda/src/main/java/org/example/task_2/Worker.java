@@ -1,7 +1,7 @@
-package org.example.task_1;
+package org.example.task_2;
 
 public class Worker {
-    private OnTaskDoneListener callback;
+    private final OnTaskDoneListener callback;
 
     public Worker(OnTaskDoneListener callback) {
         this.callback = callback;

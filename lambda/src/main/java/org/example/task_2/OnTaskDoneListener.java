@@ -1,4 +1,4 @@
-package org.example.task_1;
+package org.example.task_2;
 
 @FunctionalInterface
 public interface OnTaskDoneListener {
